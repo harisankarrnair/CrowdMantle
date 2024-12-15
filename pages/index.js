@@ -39,7 +39,7 @@ const index = () => {
       <Hero titleData={titleData} createCampaign={createCampaign} />
 
       <Card
-        title="All Listed Campaign"
+        title="All Listed Campaigns"
         allcampaign={allcampaign}
         setOpenModel={setOpenModel}
         setDonate={setDonateCampaign}
@@ -47,7 +47,7 @@ const index = () => {
       {/* The Send Fund functionality has been commented out for now temporarily */}
       {/* <button onClick={() => gasLimit()}>Send Fund</button>  */}
       <Card
-        title="Your Created Compaign"
+        title="Your Created Campaigns"
         allcampaign={usercampaign}
         setOpenModel={setOpenModel}
         setDonate={setDonateCampaign}
