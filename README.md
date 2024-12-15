@@ -21,10 +21,10 @@ The platform is live and can be accessed at:
 
 ## 📜 **Smart Contract**
 
-The Smart Contract is deployed on the Mantle Sepolia Testnet at [0xF859e215A276EC632Fb46DCca4EbccF99C8993D2](https://explorer.sepolia.mantle.xyz/address/0xF859e215A276EC632Fb46DCca4EbccF99C8993D2).  
+The Smart Contract is deployed on the Mantle Sepolia Testnet at [0xb06cbBeAE36EdBa7a14D733E8aE922a29630c7C1](https://explorer.sepolia.mantle.xyz/address/0xb06cbBeAE36EdBa7a14D733E8aE922a29630c7C1).  
 Visit the link below to view it on the explorer!
 
-**🔗 [Crowd Mantle Smart Contract](https://explorer.sepolia.mantle.xyz/address/0xF859e215A276EC632Fb46DCca4EbccF99C8993D2)**
+**🔗 [Crowd Mantle Smart Contract](https://explorer.sepolia.mantle.xyz/address/0xb06cbBeAE36EdBa7a14D733E8aE922a29630c7C1)**
 
 ---
 
